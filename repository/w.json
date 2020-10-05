@@ -1002,6 +1002,17 @@
 			]
 		},
 		{
+			"name": "WrapInBox",
+			"description": "Draw a box along the edges of your selection region",
+			"details": "https://github.com/sw-uci/sublime-wrapinbox",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "WrapStatement",
 			"details": "https://github.com/shagabutdinov/sublime-wrap-statement",
 			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
